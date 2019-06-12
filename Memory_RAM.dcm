@@ -48,6 +48,12 @@ K dual-port ram
 F https://www.idt.com/document/dst/7006-data-sheet
 $ENDCMP
 #
+$CMP IDT71V321
+D High Speed 3.3V 2K x 8 Dual-Port Static Ram with Interrupts
+K RAM Dual
+F https://www.idt.com/document/dst/71v321-datasheet
+$ENDCMP
+#
 $CMP IDT71V65903S
 D 165 pins BGA 3.3V high-speed 9 Megabit synchronous SRAMs 512K x 18 (or  256K x 36)
 $ENDCMP
