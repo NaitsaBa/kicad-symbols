@@ -50,7 +50,7 @@ $ENDCMP
 #
 $CMP IDT71V321
 D High Speed 3.3V 2K x 8 Dual-Port Static Ram with Interrupts
-K RAM Dual
+K dual port ram
 F https://www.idt.com/document/dst/71v321-datasheet
 $ENDCMP
 #
